@@ -1,4 +1,6 @@
 # TikTokDownload
+![GitHub manifest version](https://img.shields.io/github/manifest-json/v/caesarding07/TikTokDownload)
+
 ## 项目介绍 Indroduction
 下载抖音TikTok视频
 ## 源码介绍 Documents
